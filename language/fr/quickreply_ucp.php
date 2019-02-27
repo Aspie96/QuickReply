@@ -21,7 +21,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'QR_CHANGE_QUICKNICK_STRING' => 'Afficher sur un menu déroulant lorsque l’on clique sur le nom d’utilisateur situé sous l’avatar pour insérer le lien  « Se référer au nom d’utilisateur »',
+	'QR_CHANGE_QUICKNICK_STRING' => 'Afficher sur un menu déroulant lorsque l’on clique sur le nom d’utilisateur situé sous l’avatar pour insérer le lien  «Se référer au nom d’utilisateur»',
 	'QR_ENABLE_AJAX_PAGINATION'  => 'Ne pas recharger le formulaire de la réponse rapide lors de la navigation sur le sujet',
 	'QR_ENABLE_SCROLL'           => 'Activer le défilement automatique lors de la navigation sur le sujet',
 	'QR_ENABLE_SOFT_SCROLL'      => 'Activer le défilement léger et les animations lors de la navigation sur le sujet, après avoir utilisé la réponse rapide',

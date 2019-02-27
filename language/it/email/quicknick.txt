@@ -1,0 +1,20 @@
+Subject: Notifica di risposta ad un argomento - "{TOPIC_TITLE}"
+
+Ciao, {USERNAME},
+
+Stai ricevendo questa notifica perché "{AUTHOR_NAME}" ti ha menzionato nell'argomento "{TOPIC_TITLE}" su "{SITENAME}". Puoi usare il link seguente per visualizzare la sua risposta.
+
+Se vuoi vedere il post, clicca il seguente link:
+{U_VIEW_POST}
+
+Se vuoi vedere l'argomento, clicca il seguente link:
+{U_TOPIC}
+
+Se vuoi vedere il forum, clicca il seguente link:
+{U_FORUM}
+
+Se non vuoi più ricevere notifiche di aggiornamento su risposte che ti menzionano, per favore modifica le tue impostazioni delle notifiche di aggiornamento qui:
+
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
